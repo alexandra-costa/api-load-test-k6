@@ -1,5 +1,5 @@
 {
-  "name": "CURSOK6",
+  "name": "api-load-test-k6",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

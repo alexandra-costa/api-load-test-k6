@@ -25,3 +25,6 @@ O Grafana k6 é uma ferramenta de teste de carga de código aberto que torna o t
 ``k6 run --vus 10 --duration 30s index.js``
 
 ---
+
+## Visualizando o Resultado:
+``k6 run --vus 50 --duration 30s --out csv=my_test_result.csv  index.js``
